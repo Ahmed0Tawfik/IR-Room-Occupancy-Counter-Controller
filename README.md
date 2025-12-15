@@ -70,3 +70,4 @@ This project is an IR Room Occupancy Counter Controller built with embedded C. I
 
 - [Ahmed0Tawfik](https://github.com/Ahmed0Tawfik)
 - [MAhmoud Almokaber](https://github.com/Mahmoud-Elmokaber)
+- [omargamal233](https://github.com/omargamal233)
